@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>427842989253-pisfus8n8ttlainevauglmpkatpipp57.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.427842989253-pisfus8n8ttlainevauglmpkatpipp57</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>427842989253-0qb83boi8vv6ojctlq76lgrqh044evmj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAkjURBvdyIKMp24gH6KYDNGWfVfGGozAo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>427842989253</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.jobKartApp</string>
+	<key>PROJECT_ID</key>
+	<string>jobkart-46567</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jobkart-46567.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:427842989253:ios:2637e16dcf04973d7bd4ac</string>
+</dict>
+</plist>
